@@ -1,2 +1,3 @@
 # html-tab-slider-navigation
-HTML tab slider to be included with genesis hook
+Reference
+http://dabblet.com/gist/2030070
